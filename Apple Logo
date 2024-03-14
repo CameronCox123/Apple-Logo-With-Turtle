@@ -1,10 +1,9 @@
-##HW2B
-##Cameron Cox
-##UTEID: cpc2526your EID
-##CS 303E
-##9/14/2023
+# Apple Logo
+# Cameron Cox
+# UTEID: cpc2526your EID
+# CS 303E
 
-    ##Draws the Apple logo
+# Description of Program: Draws the Apple logo
 
 import turtle
 
